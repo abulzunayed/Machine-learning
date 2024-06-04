@@ -1,5 +1,6 @@
 # Machine learning Image Classification project using face and eye detection.
-In this machine learning project, with the help of OpenCV Face and eye detection, we classify world leader personalities. We restrict classification to only 5 people. Create a web page and real-time  frontend image classification and backend response from probability output from machine learning.
+In this machine learning project, with the help of OpenCV Face and eye detection, we classify world leader personalities. We restrict classification to only 5 people. 
+Finally, we create a frontend UI web page and backend response from probability output from machine learning.
 
 Here is the folder structure:
 - google_image_scrapping: code to scrap Google for images
@@ -16,7 +17,7 @@ Technologies used in this project,
 - Jupyter notebook, visual studio code and pycharm as IDE
 - Python flask for http server
 - HTML/CSS/Javascript for UI
-
+# Steps:
 Step 1: Collect Images from Google and prepare the dataset.
 
 Step 2: Face and Eye detection using OpenCV.
