@@ -2,7 +2,7 @@
 In this machine learning project, with the help of OpenCV Face and eye detection, we classify world leader personalities. We restrict classification to only 5 people. Create a web page and real-time  frontend image classification and backend response from probability output from machine learning.
 
 Here is the folder structure:
-  google_image_scrapping: code to scrap Google for images
+  *google_image_scrapping: code to scrap Google for images
   images_dataset: Dataset used for our model training
   model: Contains Python notebook for model building
   UI : This contains ui website code
