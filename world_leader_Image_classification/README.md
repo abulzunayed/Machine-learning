@@ -3,20 +3,19 @@ In this machine learning project, with the help of OpenCV Face and eye detection
 
 Here is the folder structure:
 - google_image_scrapping: code to scrap Google for images
-* images_dataset: Dataset used for our model training
-  model: Contains Python notebook for model building
-  UI : This contains ui website code
-  server: Python flask server
+- images_dataset: Dataset used for our model training
+- model: Contains Python notebook for model building
+- UI: This contains ui website code
+- server: Python flask server
 
 Technologies used in this project,
-
-Python
-Numpy and OpenCV for data cleaning
-Matplotlib & Seaborn for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
-Python flask for http server
-HTML/CSS/Javascript for UI
+- Python
+- Numpy and OpenCV for data cleaning
+-Matplotlib & Seaborn for data visualization
+- Sklearn for model building
+-Jupyter notebook, visual studio code and pycharm as IDE
+- Python flask for http server
+- HTML/CSS/Javascript for UI
 
 Step 1: Collect Images from Google and prepare the dataset.
 
