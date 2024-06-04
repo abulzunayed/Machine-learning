@@ -1,4 +1,5 @@
-# 1. Machine_learning_Projects
+# 1. Machine_learning_Projects:
+World leader image classification including Face and Eye detection.
 # 2. Classification:
 My coding practices for Classification tasks include decision Tree, K_NN, K_mean, Logistic regression, Naive Bayes, Random Forest, and SVM using Numpy and Pandas.
 # 3. Regression: 
