@@ -24,5 +24,7 @@ Overtime
 
 ![dcgan](https://github.com/abulzunayed/Machine-learning/assets/122612945/f279bdb4-ce95-47a0-add7-7491f4d8e25a)
 
-This way the generator starts-out with noisy images and learns over time.
+This way the generator starts out with noisy images and learns over time.
+
 **Conclusions**
+The following animation shows a series of images produced by the generator as it was trained for 50 epochs. The images begin as random noise, and increasingly resemble hand written digits over time.
