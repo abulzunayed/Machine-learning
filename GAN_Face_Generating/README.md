@@ -25,4 +25,6 @@ https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_pr
 **Finally Sample generation and View image **
 * It is important that we rescale the values back to the pixel range(0–255).
 * And finally, we have our generated faces below.
+* 
+![train img](https://github.com/abulzunayed/Machine-learning/assets/122612945/88199682-fef1-4972-affe-dd17179ce044)
 
