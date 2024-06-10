@@ -6,6 +6,7 @@
 
 **(Project-2) Generative adversarial network(GAN) using MNIST handwritten dataset**
 The MNIST database is a dataset of handwritten digits. It has 60,000 training samples and 10,000 test samples. Each image is represented by 28x28 pixels, each containing a value 0 - 255 with its grayscale value.
+
 ![dcgan](https://github.com/abulzunayed/Machine-learning/assets/122612945/22bd2f7d-ee88-41db-8313-d976888fd0dc)
 
 **(Project-3) Generating Faces with Deep Convolution Generative adversarial network(DCGAN)**
