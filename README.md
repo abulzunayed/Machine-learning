@@ -35,5 +35,6 @@ Implemented Regression tasks including:
 - Support vector regression,
 - Data processing using Numpy and Pandas including examples.
 # 4. Deep Learning:
- - All important concepts of Deep learning including exercises,
+ - All important concepts of Deep learning including exercises.
+ - Gradient descent, Optimization, ANN, CNN,  RNN.
  - ANN and CNN tasks using Tensorflow, Keras, Scikit Learn, and Scipy.
