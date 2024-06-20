@@ -18,10 +18,16 @@ The MNIST database is a dataset of handwritten digits. It has 60,000 training sa
 ![image](https://github.com/abulzunayed/Deep_learning/assets/122612945/7c1e296d-2455-4742-a552-4d5405fcebac)
 
 # 2. Classification:
-I implemented classification tasks including decision Tree, K_NN, K_mean, Logistic regression, Naive Bayes, Random Forest, and SVM using Numpy and Pandas.
+Implemented classification tasks including decision Tree, K_NN, K_mean, Logistic regression, Naive Bayes, Random Forest, and SVM using Numpy and Pandas.
   - Dogs and cats image classification.
   - CIFAR-10 image classification.
 # 3. Regression: 
-I implemented Regression tasks including Linear regression, multiple linear regression, polynomial regression, support vector regression, and Data processing using Numpy and Pandas including examples.
+Implemented Regression tasks including:
+- Linear regression,
+- Multiple linear regression,
+- Polynomial regression,
+- Support vector regression,
+- Data processing using Numpy and Pandas including examples.
 # 4. Deep Learning:
-My coding practices Deep learning ANN and CNN tasks include Tensorflow, Keras, Scikit Learn, and Scipy.
+ - All important concepts of Deep learning including exercises,
+ - ANN and CNN tasks using Tensorflow, Keras, Scikit Learn, and Scipy.
