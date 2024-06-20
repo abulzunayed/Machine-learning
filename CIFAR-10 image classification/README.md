@@ -3,4 +3,5 @@
 
 - image classification on CIFAR-10.
   
-![image](https://github.com/abulzunayed/Deep_learning/assets/122612945/09c15566-65da-4cd0-ad5f-38bef5bccf61)
+![image](https://github.com/abulzunayed/Machine-learning/assets/122612945/93875477-7da7-4592-afe3-129767e903b2)
+
