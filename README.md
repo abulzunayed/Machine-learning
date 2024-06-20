@@ -7,6 +7,7 @@
 
 **(Project-2) Generating Faces with Deep Convolution Generative adversarial network(DCGAN)**
 Implementation of DCGAN on celebA dataset to generate faces using Large Scale Celebrates Face Images(200K celebrity images). Thus, the depth is 3 (RGB — 3 color channels).
+
 ![train img](https://github.com/abulzunayed/Machine-learning/assets/122612945/bb4aea02-579a-40e7-8126-9b99abfd8380)
 
 
