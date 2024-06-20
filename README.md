@@ -29,8 +29,6 @@ Implemented classification tasks including decision Tree, K_NN, K_mean, Logistic
     ![image](https://github.com/abulzunayed/Machine-learning/assets/122612945/1353e7bf-335c-4c84-9e80-642fd2e1e90a)
 
   - CIFAR-10 image classification.
-    
-    ![image](https://github.com/abulzunayed/Deep_learning/assets/122612945/09c15566-65da-4cd0-ad5f-38bef5bccf61)
 
     
 # 3. Regression: 
