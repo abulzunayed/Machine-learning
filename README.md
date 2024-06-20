@@ -15,7 +15,7 @@ The MNIST database is a dataset of handwritten digits. It has 60,000 training sa
 
 **(Project-4). Denoising Autoencoder.**
 
-![image](https://github.com/abulzunayed/Deep_learning/assets/122612945/7c1e296d-2455-4742-a552-4d5405fcebac)
+![image](https://github.com/abulzunayed/Machine-learning/assets/122612945/798bcce2-ca64-40fc-b08c-91c5aefdfc62)
 
 # 2. Classification:
 Implemented classification tasks including decision Tree, K_NN, K_mean, Logistic regression, Naive Bayes, Random Forest, and SVM using Numpy and Pandas.
