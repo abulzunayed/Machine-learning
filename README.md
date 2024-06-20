@@ -20,7 +20,13 @@ The MNIST database is a dataset of handwritten digits. It has 60,000 training sa
 # 2. Classification:
 Implemented classification tasks including decision Tree, K_NN, K_mean, Logistic regression, Naive Bayes, Random Forest, and SVM using Numpy and Pandas.
   - Dogs and cats image classification.
+    
+    ![image](https://github.com/abulzunayed/Deep_learning/assets/122612945/de40a853-f0a0-4822-b386-be880603d8fe)
+    
   - CIFAR-10 image classification.
+    
+    ![image](https://github.com/abulzunayed/Deep_learning/assets/122612945/09c15566-65da-4cd0-ad5f-38bef5bccf61)
+    
 # 3. Regression: 
 Implemented Regression tasks including:
 - Linear regression,
