@@ -1,4 +1,4 @@
-# 1. Machine_learning_Projects:
+#  Machine_learning_Projects:
 
 **(Project-1) World leader image classification including Face and Eye detection**.
 
