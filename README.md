@@ -1,6 +1,6 @@
 #  Machine_learning_Projects:
 
-**(Project-1) World leader image classification including Face and Eye detection**.
+**(Project-1) Celebrity person image classification including Face and Eye detection**.
 
 ![image](https://github.com/abulzunayed/Machine-learning/assets/122612945/c7651c8a-e79e-4166-9b7c-02daacfb9a66)
 
