@@ -1,6 +1,6 @@
 #  Machine_learning_Projects:
 
-**(Project-1) Celebrity person image classification including Face and Eye detection**.
+**(Project-1) Celebrity person image classification including Face and Eye detection where a frontend UI web page and backend response from probability output from machine learning.**.
 
 ![image](https://github.com/abulzunayed/Machine-learning/assets/122612945/c7651c8a-e79e-4166-9b7c-02daacfb9a66)
 
