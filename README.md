@@ -21,7 +21,7 @@ The MNIST database is a dataset of handwritten digits. It has 60,000 training sa
 
 **(Project-4). Denoising Autoencoder.**
 
-Denoising autoencoders attempt to address identity-function risk by randomly corrupting input (i.e. introducing noise) that the autoencoder must then reconstruct, or denoise. Here, Two kinds of noise were introduced to the standard MNIST dataset: Gaussian and speckle, to help generalization for denoising.
+An autoencoder is a neural network used for dimensionality reduction; that is, for feature selection and extraction. Here, Two kinds of noise were introduced to the standard MNIST dataset: Gaussian and speckle. Denoising autoencoder helps with generalization for denoising.
 
 ![image](https://github.com/abulzunayed/Machine-learning/assets/122612945/798bcce2-ca64-40fc-b08c-91c5aefdfc62)
 
